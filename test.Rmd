@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "PS/2021/078_M.C.MADUSANKA"
+date: "2024-12-08"
+output: html_document
+---
+```{r}
+set= c(1,2,3,4)
+MATRIX= matrix(set,2,2,byrow =TRUE)
+MATRIX
+```
+
